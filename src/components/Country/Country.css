@@ -1,0 +1,18 @@
+.country{
+
+    margin: 15px;
+    padding: 10px;
+    border: 2px solid yellowgreen;
+    border-radius: 10px;
+}
+.visited{
+    background-color: bisque;
+}
+
+.non-visited{
+    background-color: gray;
+}
+
+.visited-text-color{
+    color: black;
+}
